@@ -15,12 +15,11 @@ body{
 
 .exp-header{
   border-bottom: 1px solid tan;
-  text-align: left;
+  text-align: center;
   font-variant: small-caps;
 }
 
 h2{
-  text-align: center;
   color: tan;
   background-color: rgba(250,240,230, 0.1);
   border-left: 3px solid tan;
